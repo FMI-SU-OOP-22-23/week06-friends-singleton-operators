@@ -1,4 +1,4 @@
-## Как предефинираме оператози за вход и изход?
+## Как предефинираме оператори за вход и изход?
 ### Защо се налага те да бъдат приятелски в по-голямата част от случайте? - https://learn.microsoft.com/en-us/cpp/standard-library/overloading-the-output-operator-for-your-own-classes?view=msvc-170
 
 ### Задача 1
