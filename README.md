@@ -5,7 +5,7 @@
 За класът Динамичен масив от последния път да се предефинират операторите за вход и изход.
 
 
-## Dessign patterns - Singleton https://github.com/semerdzhiev/oop-samples/blob/master/Patterns/Singleton/main.cpp
+## Design patterns - Singleton https://github.com/semerdzhiev/oop-samples/blob/master/Patterns/Singleton/main.cpp
 
 ## За класът динамичен масив да се предефинират съответние оператори
 == - сравнява дали всички елементи в същата последователност са равни.
